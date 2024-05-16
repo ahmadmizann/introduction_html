@@ -7,8 +7,8 @@
 - HTML elements tell the browser how to display the content
 - HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
 # Structure  of Web
-![Alt Text](/home/ahmadmizannh/learning_html/Screenshot from 2024-05-16 23-57-13.png)
+![Alt Text](/home/ahmadmizannh/LEARNING_HTML/day1/note-1.md)
 
 ## Lets talk about paragraph
-the symbol : <p></p>
-<p>This is a paragraph.</p>
+the symbol : ```<p></p>```
+```<p>This is a paragraph.</p>```
