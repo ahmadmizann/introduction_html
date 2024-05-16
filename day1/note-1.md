@@ -30,4 +30,7 @@ nested
 - Ordered list
 ```<ol></ol>```
 ![Alt Text](ol.png)
-> [W3 Schools]: https://www.w3schools.com/html/html_intro.asp
+### references:
+- https://www.w3schools.com/html/html_intro.asp
+- dicoding.id
+
