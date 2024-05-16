@@ -12,11 +12,15 @@
 - head
 - body
 - html
-
+# What we want to learn for today
 ## Lets talk about paragraph
 the symbol : ```<p></p>```
 ```<p>This is a paragraph.</p>```
 ![Alt Text](paragraph.png)
-> [W3 Schools][urlReference].
 
+## Examples of heading
+![Alt Text](heading.png)
+
+
+> [W3 Schools][urlReference].
 [urlReference]: https://www.w3schools.com/html/html_intro.asp
