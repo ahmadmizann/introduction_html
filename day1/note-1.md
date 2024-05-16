@@ -21,6 +21,14 @@ the symbol : ```<p></p>```
 ## Examples of heading
 ![Alt Text](heading.png)
 
-
+## List
+two type of of common list:
+- Unordered list
+```<ul></ul>```
+![Alt Text](ul.png)
+nested 
+- Ordered list
+```<ol></ol>```
+![Alt Text](ol.png)
 > [W3 Schools][urlReference].
 [urlReference]: https://www.w3schools.com/html/html_intro.asp
